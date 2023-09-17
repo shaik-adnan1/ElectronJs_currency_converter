@@ -1,0 +1,15 @@
+{
+  "name": "currency_converter",
+  "version": "1.0.0",
+  "description": "A simple currency converter using exchangerate api with Electron JS",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1", 
+    "start": "electron ."
+  },
+  "author": "shaik yousuf adnan",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^26.2.1"
+  }
+}
